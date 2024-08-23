@@ -5,7 +5,7 @@ Este documento descreve a arquitetura do sistema CRUD de games, que permite a ge
 
 ![Minha Imagem](arc.png)
 
-## 2. Restrições
+## 2.
 - Utilização de banco de dados SQL Server.
 - A aplicação deve ser desenvolvida em Java Spring Boot.
 - Arquitetura deve seguir os princípios de Clean Architecture e Vertical Slice.
